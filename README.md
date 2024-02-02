@@ -1,6 +1,6 @@
 #IA NA EDUCAÇÃO
 
-##Objetivo
+Objetivo
 
 Identificar as percepções de alunos do ensino superior sobre IA na Educação.
 
